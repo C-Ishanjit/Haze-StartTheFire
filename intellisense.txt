@@ -12,6 +12,12 @@
           "description": "Returns the global environment table of LocalScript script.",
           "insert": "getsenv"
       },
+  "is_oxygen_function": {
+          "label": "is_oxygen_function(f);",
+          "type": "Method",
+          "description": "returns true if f is a Oxygen U function.",
+          "insert": "is_oxygen_function"
+      },
       "setrawmetatable": {
           "label": "setrawmetatable(o, mt)",
           "type": "Method",
