@@ -1,0 +1,5 @@
+--[[
+Made by Ishanjit and GRP
+Credits to Lxnny for Monaco and Parex as inspiration on how to make the script hub.
+UI was inspired by Script Ware v3
+]]
